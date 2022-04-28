@@ -12,13 +12,13 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="lab-41" target="1.5" />
-      <module name="lab-41-demo01" target="1.8" />
+      <module name="lab-41-demo01" target="1.5" />
       <module name="lab-41-demo02" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="lab-41-demo01" options="-parameters" />
+      <module name="lab-41-demo01" options="" />
       <module name="lab-41-demo02" options="-parameters" />
     </option>
   </component>

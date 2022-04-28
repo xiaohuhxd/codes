@@ -1,0 +1,3 @@
+cn\iocoder\springboot\lab40\jenkinsdemo\Demo02Application.class
+cn\iocoder\springboot\lab40\jenkinsdemo\actuate\ServerHealthIndicator.class
+cn\iocoder\springboot\lab40\jenkinsdemo\controller\DemoController.class
